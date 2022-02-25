@@ -8,7 +8,7 @@
 2. [Buyer Persona](documents/Buyer-Persona.pdf)
 3. [Publico objetivo](documents/PublicoObjetivo.pdf)
 4. [Wireframes](documents/Wireframes.pdf)
-5. [Diseño UI/UX](documents/UI.pdf) 
+5. [Diseño UI/UX](documents/UI.png) 
 
 ----------
 ![Launch X Logo](images/Launchx.png)
